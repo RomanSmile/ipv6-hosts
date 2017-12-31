@@ -172,7 +172,7 @@ class watcher_thread(threading.Thread):
             time.sleep(1)
 
 def query_domain(domain, tcp):
-    cmd = "dig +short +time=2 -6 %s @'%s' '%s'"\
+    cmd = "dig +vc +short +time=2 -6 %s @'%s' '%s'"\
         % (config['querytype'], config['dns'], domain)
 
     if tcp:
