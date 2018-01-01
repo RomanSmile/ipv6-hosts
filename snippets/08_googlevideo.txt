@@ -2588,6 +2588,9 @@
 2001:c28:1:47::c r1---sn-5n5ip-ioqs.googlevideo.com
 2001:c28:1:47::d r2---sn-5n5ip-ioqs.googlevideo.com
 2001:c28:1:47::e r3---sn-5n5ip-ioqs.googlevideo.com
+2001:ce0:1:f::c r1---sn-i5goxu-i3be.googlevideo.com
+2001:ce0:1:f::d r2---sn-i5goxu-i3be.googlevideo.com
+2001:ce0:1:f::e r3---sn-i5goxu-i3be.googlevideo.com
 2001:d08:10:204::c r1---sn-h5mpn-30ae.googlevideo.com
 2001:d08:10:204::d r2---sn-h5mpn-30ae.googlevideo.com
 2001:d08:10:204::e r3---sn-h5mpn-30ae.googlevideo.com
