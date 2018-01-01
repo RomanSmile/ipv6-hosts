@@ -4,12 +4,12 @@
 ## |  ||  ─  ||  |  ||  ─  | |______| |     ||  ─  ||__ ──||   _||__ ──|
 ## |__||  ┌──┘ \___/ |_____|          |__|__||_____||_____||____||_____|
 ##     |__|                                                             
-##                                                          · lennylxx ·
+##                                                        · RomanSmile ·
 ##
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
-## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 01 Jan 2018 05:36:00 +0800                  |
+## |        Project:https://github.com/RomanSmile/ipv6-hosts           |
+## |         Update : Mon, 01 Jan 2018 19:10:55 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -1798,11 +1798,9 @@
 2404:6800:4008:c02::76 www4.l.google.com
 2404:6800:4008:c06::54 accounts.l.google.com #accounts-china.l.google.com
 2404:6800:4008:c06::5e accounts-cctld.l.google.com
-#2404:6800:4008:c00::62 afd.l.google.com
 2607:f8b0:4003:c03::7d alt1.talk.l.google.com
 2404:6800:4008:c00::76 android-market.l.google.com
 2404:6800:4008:c06::be android.l.google.com
-#2404:6800:4008:c00::64 android-china.l.google.com
 2404:6800:4008:c03::70 adwords.l.google.com #adwords-china.l.google.com
 2404:6800:4008:c02::8d appspot.l.google.com
 2404:6800:4008:c06::1b aspmx.l.google.com
@@ -1810,18 +1808,13 @@
 2401:3800:4001:806::1003 bandaid-redirector.l.google.com
 2404:6800:4008:c04::bf blogger.l.google.com
 2404:6800:4008:c04::8b bloggerphotos.l.google.com
-#2a00:1450:4007:812::2001 blogspot.l.google.com
-#2404:6800:4008:c00::66 browsersync.l.google.com
 2404:6800:4008:c03::bd browserchannel-docs.l.google.com
 2401:3800:4001:4::18 cache.l.google.com
 2404:6800:4008:c00::66 cbk.l.google.com
 2404:6800:4008:c06::64 code.l.google.com
-#2404:6800:4008:c00::73 checkout.l.google.com
-#2607:f8b0:400e:c01::97 chromeecho.l.google.com
 2404:6800:4008:c06::66 clients.l.google.com #clients-china.l.google.com
 2404:6800:4008:c05::5e clients-cctld.l.google.com
 2a00:1450:400e:800::2003 csi.l.google.com
-#2404:6800:4008:c00::68 desktop.l.google.com
 2401:3800:4001:807::1004 dl.l.google.com
 2404:6800:4008:c00::5d dl-ssl.l.google.com
 2404:6800:4008:c03::63 ds.ipv6test.l.google.com
@@ -1836,7 +1829,6 @@
 2404:6800:4008:c05::79 ghs46.l.google.com
 2404:6800:4008:c06::e gmr-smtp-in.l.google.com
 2404:6800:4008:c04::5f googleapis.l.google.com
-#2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4008:c06::52 googlecode.l.google.com
 2404:6800:4008:c03::84 googlehosted.l.google.com
 2404:6800:4008:c03::53 googlemail.l.google.com #mail-china.l.google.com
@@ -1847,11 +1839,8 @@
 2404:6800:4008:c02::64 history.l.google.com
 2404:6800:4008:c06::5e id.l.google.com
 2404:6800:4008:c06::71 images.l.google.com
-#2404:6800:4008:c00::63 ipv4.l.google.com
 2404:6800:4008:c05::64 ipv6.l.google.com
-#2404:6800:4008:c00::63 ipv6test.l.google.com
 2401:3800:4001:807::100e keyhole.l.google.com
-#2404:6800:4008:c04::5d kh.l.google.com
 2401:3800:4001:807::1006 khm.l.google.com
 2401:3800:4001:807::1009 khmdb.l.google.com
 2404:6800:4008:c04::66 khms.l.google.com #khms-china.l.google.com
@@ -1868,29 +1857,19 @@
 2404:6800:4008:c06::76 mw-medium.l.google.com
 2404:6800:4008:c00::76 mw-small.l.google.com
 2404:6800:4008:c04::8a news.l.google.com
-#2404:6800:4003:c01::57 orkut-fe.l.google.com
-#2404:6800:4003:c02::56 orkut-images.l.google.com
-#2404:6800:4003:c02::57 orkut-opensocial.l.google.com
-#2404:6800:4003:c01::55 orkut-promote.l.google.com
-#2404:6800:4003:c02::55 orkut-static.l.google.com
-#2404:6800:4008:c00::9a pagead.l.google.com
 2404:6800:4008:c06::84 pagead-tpc.l.google.com
 2401:3800:4001:10::100a pagead-googlehosted.l.google.com
-#2404:6800:4008:c00::9a partnerad.l.google.com
 2404:6800:4008:c07::be picasaweb.l.google.com
 2404:6800:4008:c03::66 plus.l.google.com #plus-china.l.google.com
-#2a00:1450:4007:812::2001 photos-ugc.l.google.com
 2404:6800:4008:c06::451 sandbox.l.google.com
 2404:6800:4008:c00::8a safebrowsing.cache.l.google.com
 2404:6800:4008:c00::5d sb.l.google.com
 2404:6800:4008:c03::5d sb-ssl.l.google.com
 2404:6800:4008:c06::be scholar.l.google.com
-#2404:6800:4008:c00::66 sketchup.l.google.com
 2404:6800:4008:c04::8a spreadsheets.l.google.com #spreadsheets-china.l.google.com
 2404:6800:4008:c00::71 spreadsheets-china.l.google.com
 2404:6800:4008:c02::74 sslvideo-upload.l.google.com
 2401:3800:4001:11::101e ssl-google-analytics.l.google.com
-#2607:f8b0:4005:400::17 static.cache.l.google.com
 2404:6800:4008:c00::8a suggestqueries.l.google.com
 2404:6800:4008:c07::69 tbn.l.google.com
 2404:6800:4008:c05::7d talk.l.google.com
@@ -1904,7 +1883,6 @@
 2404:6800:4008:c04::64 video-thumbnails.l.google.com
 2404:6800:4008:c04::7b wifi.l.google.com
 2404:6800:4008:c07::8a writely.l.google.com #writely-china.l.google.com
-#2404:6800:4008:c00::62 writely-com.l.google.com
 2404:6800:4008:c06::66 writely-china.l.google.com
 2404:6800:4005:807::200e www-google-analytics.l.google.com
 2401:3800:4001:10::101e www-googletagmanager.l.google.com
@@ -1913,17 +1891,10 @@
 2404:6800:4008:c04::75 yt-video-upload.l.google.com
 2404:6800:4008:c06::8a ytimg.l.google.com
 2404:6800:4008:c07::71 ytstatic.l.google.com
-
 ## AdWords/AdSense 广告服务
-#2404:6800:4008:c00::62 www.googlesyndication.com
-#2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
-#2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
 2401:3800:4001:806::101a pagead2.googlesyndication.com #pagead46.l.doubleclick.net
 2404:6800:4008:c03::70 adwords.google.com #adwords.l.google.com
 2404:6800:4008:c03::70 adwords.google.sk #adwords.l.google.com
-#2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
-#2404:6800:4008:c00::62 pagead.google.com
-#2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
 2404:6800:4008:c02::69 buttons.googlesyndication.com #www.google.com
 2401:3800:4001:11::100a tpc.googlesyndication.com #pagead-googlehosted.l.google.com
 2404:6800:4005:807::200e v1.cache1.c.googlesyndication.com
@@ -2182,9 +2153,7 @@
 2404:6800:4005:807::200e v24.lscache6.c.googlesyndication.com
 2401:3800:4001:806::100e v24.lscache7.c.googlesyndication.com
 2401:3800:4001:807::1007 v24.lscache8.c.googlesyndication.com
-
 ## Android Google 移动操作系统
-
 ## BigCache (Google Storage)
 2404:6800:4005:809::200e v1.lscache1.c.bigcache.googleapis.com #bandaid-redirector.l.google.com
 2401:3800:4001:807::1006 v1.lscache2.c.bigcache.googleapis.com
@@ -2712,43 +2681,40 @@
 2404:6800:4008:c07::84 40-wave-opensocial.googleusercontent.com
 
 ## YouTube
-2404:6800:4008:c06::5d youtube.com
-2404:6800:4008:c07::8a www.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c07::71 au.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::65 ca.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c05::8b de.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c04::64 fr.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c02::8b jp.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::66 ru.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c07::66 uk.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c07::65 tw.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::64 gaming.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c06::64 music.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c05::71 ads.youtube.com #www3.l.google.com
-2404:6800:4008:c06::65 www.youtube-nocookie.com #youtube-ui.l.google.com
-2404:6800:4008:c03::8b m.youtube.com
-2404:6800:4008:c06::5d youtu.be
-2404:6800:4008:c06::76 gdata.youtube.com #www4.l.google.com
+2404:6800:4008:c00::be youtube.com
+2404:6800:4008:c02::5b www.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b au.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b ca.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b de.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b fr.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b jp.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b ru.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b uk.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b tw.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b gaming.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::5b music.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c00::8a ads.youtube.com #www3.l.google.com
+2404:6800:4008:c02::5b www.youtube-nocookie.com #youtube-ui.l.google.com
+2404:6800:4008:c00::65 m.youtube.com
+2404:6800:4008:c00::5d youtu.be
+2404:6800:4008:c00::76 gdata.youtube.com #www4.l.google.com
 2404:6800:4008:c03::74 stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4008:c06::66 s.youtube.com #video-stats.l.google.com
+2404:6800:4008:c00::8b s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
-2404:6800:4008:c07::8a accounts.youtube.com #www3.l.google.com
-2404:6800:4008:c02::71 img.youtube.com #ytimg.l.google.com
-2404:6800:4008:c06::67 help.youtube.com #www.google.com
-2404:6800:4008:c04::75 upload.youtube.com #yt-video-upload.l.google.com
-2404:6800:4008:c06::75 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4008:c03::71 insight.youtube.com #video-analytics.google.com
-2404:6800:4008:c07::66 apiblog.youtube.com #www3.l.google.com
-2404:6800:4008:c06::66 youtubei.youtube.com #youtube-ui.l.google.com
-
-#2404:6800:4008:c00::64 clients1.youtube.com
-
-2404:6800:4008:c06::66 i.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c06::65 i1.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c07::8a i2.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c07::8a i3.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c03::65 i4.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c00::71 s.ytimg.com #ytstatic.l.google.com
+2404:6800:4008:c00::8a accounts.youtube.com #www3.l.google.com
+2404:6800:4008:c02::64 img.youtube.com #ytimg.l.google.com
+2404:6800:4005:801::2004 help.youtube.com #www.google.com
+2404:6800:4008:c03::74 upload.youtube.com #yt-video-upload.l.google.com
+2404:6800:4008:c03::74 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
+2404:6800:4008:c00::64 insight.youtube.com #video-analytics.google.com
+2404:6800:4008:c00::8a apiblog.youtube.com #www3.l.google.com
+2404:6800:4008:c02::5b youtubei.youtube.com #youtube-ui.l.google.com
+2404:6800:4008:c02::64 i.ytimg.com #ytimg.l.google.com
+2404:6800:4008:c02::64 i1.ytimg.com #ytimg.l.google.com
+2404:6800:4008:c02::64 i2.ytimg.com #ytimg.l.google.com
+2404:6800:4008:c02::64 i3.ytimg.com #ytimg.l.google.com
+2404:6800:4008:c02::64 i4.ytimg.com #ytimg.l.google.com
+2404:6800:4008:c00::65 s.ytimg.com #ytstatic.l.google.com
 
 ## Google Video
 2404:6800:4008:c07::64 video.google.com #video.l.google.com
@@ -24862,51 +24828,14 @@
 
 ## Apple 苹果
 2600:1417:9:193::1aca www.apple.com #www.isg-apple.com.akadns.net
-
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
-
-## Gravatar
-#2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
-#2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com #cs91.wac.edgecastcdn.net
-#2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
-#2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
-#2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com #cs91.wac.edgecastcdn.net
-
-## Plurk
-#2607:f128:47::1:1 plurk.com
-#2607:f128:47::1:1 www.plurk.com
-#2607:f128:47::1:1 ipv6.plurk.com
-
-## 其他IPv6网站
-## US 美国
 ## Easylist系列
 2a01:4f8:130:11ee::2 easylist-downloads.adblockplus.org
-
 ## LEDE Project
 2a03:b0c0:3:d0::1af1:1 lede-project.org
-
 ## Mozilla
 2400:cb00:2048:1::6810:2902 www.mozilla.org #www.mozilla.org.cdn.cloudflare.net
-#2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
-#2620:101:8020:5::2:132 addons.mozilla.org #addons.dynect.mozilla.net
-#2620:101:8008:5::2:6 blog.mozilla.org #generic.zlb.phx.mozilla.net
-#2620:101:8008:5::2:9 bugzilla.mozilla.org #bugzilla.zlb.phx.mozilla.net
-#2620:101:8008:5::2:7 dnt.mozilla.org #static.zlb.phx.mozilla.net
-#2620:101:8008:5::2:6 firefoxflicks.mozilla.org #generic.zlb.phx.mozilla.net
-#2620:101:8008:5::2:6 hacks.mozilla.org #generic.zlb.phx.mozilla.net
-#2620:101:8008:5::2:7 nightly.mozilla.org #static.zlb.phx.mozilla.net
-#2620:101:8008:5::2:6 pastebin.mozilla.org #generic.zlb.phx.mozilla.net
-#2620:101:8008:5::2:7 planet.mozilla.org #static.zlb.phx.mozilla.net
-#2620:101:8008:5::2:6 quality.mozilla.org
-#2620:101:8008:5::2:8 releases.mozilla.org #static-non-ssl.zlb.phx.mozilla.net
-#2620:101:8008:5::2:3 support.mozilla.org #sumo.zlb.phx.mozilla.net
-#2620:101:8008:5::2:7 tbpl.mozilla.org #static-redirect.zlb.phx.mozilla.net
-#2620:101:8008:5::2:6 wiki.mozilla.org #generic.zlb.phx.mozilla.net
-#2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
-#2620:101:8008:5::2:8 www.firefox.com #firefox.com
-#2620:101:8008:5::2:8 firefox.com
-
 ## Microsoft 微软
 2600:1417:9:193::747 www.microsoft.com #e10088.dscb.akamaiedge.net
 2600:1417:9:193::2886 i.microsoft.com
@@ -24922,47 +24851,23 @@
 2400:a980:fd:6:11::3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2400:a980:fd:6:11::3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2001:250:208:4000:2000:2::213 8.tlu.dl.delivery.mp.microsoft.com #win10back.dlmix.ourdvs.com
-#204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
-#134.170.120.48 skyapi.onedrive.live.com
-#204.79.197.217 skyweb.skyprod.akadns.net
-#204.79.197.217 webedgegeo.skyprod.akadns.net
 2600:1417:9:193::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
 2600:1417:9:193::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
-#2a01:111:2003::200 www.bing.com
-#2a01:111:2003::200 cn.bing.com
-#2a01:111:2003::200 ssl.bing.com
-#2a01:111:2003::200 global.bing.com
-#2a01:111:2003::200 api.bing.com
-#2a01:111:2003::200 bj1.api.bing.com
-#2a01:111:2003::200 tse1.mm.bing.net
-#2a01:111:2003::200 tse2.mm.bing.net
-#2a01:111:2003::200 tse3.mm.bing.net
-#2a01:111:2003::200 tse4.mm.bing.net
-#2a01:111:2003::200 tse1-mm.cn.bing.net
-#2a01:111:2003::200 tse2-mm.cn.bing.net
-#2a01:111:2003::200 tse3-mm.cn.bing.net
-#2a01:111:2003::200 tse4-mm.cn.bing.net
 2600:1417:9::b833:f5b a248.e.akamai.net
-
 ## ARIN
 2001:500:4:c000::43 www.arin.net
 2001:500:31::46 whois.arin.net
-
 ## Yahoo!
 2001:4998:c:a06::2:4008 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
 2001:4998:c:80c::3010 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-#2406:2000:f016:1fe::3001 hk.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 2406:2000:ec:a01::4000 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
 2001:4998:f007:1fb::1001 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
 2001:4998:c:401::c:9102 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-#2406:2000:f016:1fe::3000 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-#2406:2000:f016:1fe::3001 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 2001:4998:f007:1fb::1001 l.yimg.com #l.gycs.b.yahoodns.net
 2001:4998:f007:1fb::1000 l1.yimg.com #l.gycs.b.yahoodns.net
 2406:2000:a8:802::1009 l2.yimg.com #any-l.aycs.b.yahoodns.net
 2406:2000:90:800::4002 l3.yimg.com #any-l.aycs.b.yahoodns.net
 2001:4998:c:293f::6000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
-
 ## Uncyclopedia
 2400:cb00:2048:1::681c:1a21 uncyclopedia.hk
 2400:cb00:2048:1::681c:1a09 uncyclopedia.info
@@ -24973,96 +24878,21 @@
 2400:cb00:2048:1::681c:183a images.uncyc.org
 2400:cb00:2048:1::681c:193a static.uncyc.org
 2400:cb00:2048:1::681c:1009 ansaikuropedia.org
-
-## Vine
-#2606:1f80:a000:100::4 edge.vncdn.co
-#2606:1f80:a000:100::11 mid.vncdn.co
-#2606:1f80:a000:100::5 v.cdn.vine.co
-#2606:1f80:a000:100::5 mtc.cdn.vine.co
-
 ## Imgur
-#2a04:4e42::193 imgur.com
 2a04:4e42::193 www.imgur.com
 2a04:4e42::193 s.imgur.com
 2a04:4e42::193 i.imgur.com
 2a04:4e42::193 m.imgur.com
 2a04:4e42::193 p.imgur.com
-#2a04:4e42::193 api.imgur.com
-
-## Steam
-#2600:1406:3:18b::3a7 api.steampowered.com
-#2600:1406:3:18b::3a7 support.steampowered.com
-#2600:1417:9::b833:f5b repo.steampowered.com
-#2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
-#2600:1417:9::b833:f5b store.akamai.steamstatic.com
-#2600:1417:9::b833:f5b cdn.store.steampowered.com
-#2600:1417:9::b833:f5b cdn.steampowered.com
-#2600:1417:9::b833:f5b media.steampowered.com
-#2600:1417:9::b833:f5b media4.steampowered.com
-#2600:1417:9::b833:f5b content8.steampowered.com
-#2600:1417:9::b833:f5b cloud-3.steampowered.com
-#2600:1417:9::b833:f5b cloud-3.steamusercontent.com
-#2600:1417:9::b833:f5b images.akamai.steamusercontent.com
-#2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
-#2600:1417:9::b833:f5b steamstore-a.akamaihd.net
-#2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
-#2600:1417:9::b833:f5b cdn.steamcommunity.com
-#2600:1417:9::b833:f5b store.valvesoftware.com
-
 ## NVIDIA
-#2600:1406:3:18b::376 www.nvidia.com
-#2600:1406:3:18b::376 arg.nvidia.com
-#2600:1406:3:18b::376 blogs.nvidia.com
-#2600:1406:3:18b::376 br.nvidia.com
-#2600:1406:3:18b::376 chl.nvidia.com
-#2600:1406:3:18b::376 clm.nvidia.com
-#2600:1406:3:18b::376 research.nvidia.com
-#2600:1406:3:18b::376 ven.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb images.nvidia.com
-#2600:1406:3:18b::a90 developer.nvidia.com
-#2600:1406:3:18b::778 www.nvidia.cn
-#2600:1406:3:18b::c8c blogs.nvidia.cn
-#2600:1417:9::b833:f5b cn.nvidia.com
-#2600:1406:3:18b::778 contests.nvidia.com
-#2600:1406:3:18b::778 services.gfe.nvidia.com
 2606:2800:21f:150d:87d:2526:2d1:177d download-cdn.gfe.nvidia.com
-#2600:1406:3:18b::778 shield.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb cn.download.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb us.download.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb international.download.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb international-gfe.download.nvidia.com
-#2600:1406:3:18b::7b4 www.geforce.com
-#2600:1406:3:18b::7b4 gfwsl.geforce.com
-#2600:1417:9::b833:f5b www.geforce.cn
-#2600:1406:3:18b::c8c nfans.geforce.cn
-#2600:1417:9::b833:f5b www.tegrazone.com
-
 ## AMD
-#2600:1406:3:18b::b51 www.amd.com
 2001:428:4c02:b94::2c4b community.amd.com
-#2600:1417:9::b833:f5b ir.amd.com
-#2600:1417:9::b833:f5b shop.amd.com
-#2600:1406:3:18b::b51 support.amd.com
-#2600:1406:3:18b::1c7b www2.ati.com
-
-## Intel
-#2600:1417:9::b833:f5b www.intel.cn
-#2600:1417:9::b833:f5b www.intel.com
-#2600:1417:9::b833:f5b ark.intel.com
-#2600:1417:9::b833:f5b corpredirect.intel.com
-#2600:1417:9::b833:f5b pcdoeswhat.intel.cn
-#2600:1406:3:18b::75 newsroom.intel.cn
-#2600:1406:3:18b::b www-ssl.intel.com
-#2600:1406:3:18b::b communities.intel.com
-#2600:1406:3:18b::b downloadcenter.intel.com
-#2600:1406:3:18b::b downloadmirror.intel.com
-#2600:1406:3:18b::b engage.intel.com
-#2600:1406:3:18b::b iq.intel.com
-#2600:1406:3:18b::b newsroom.intel.com
-#2600:1406:3:18b::b software.intel.com
-#2600:1406:3:18b::ae6 embedded.communities.intel.com
-
-## AT 奥地利
 ## Tor Project
 2001:6b0:5a:5000::5 torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 www.torproject.org
@@ -25071,34 +24901,26 @@
 2001:6b0:5a:5000::5 cloud.torproject.org #www.torproject.org
 2620:0:6b0:b:1a1a:0:26e5:4810 atlas.torproject.org #www.torproject.org
 2a01:4f8:172:1b46:0:abba:14:1 svn.torproject.org #gayi.torproject.org
-
-## AU 澳大利亚
 ## APNIC
 2400:cb00:2048:1::6814:3bc2 www.apnic.net
 2001:dd8:9:2::101:34 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net
-
 ## FR 法国
 2a01:e0d:1:3:58bf:fa02:c0de:5 videolan.org
 2a01:e0d:1:3:58bf:fa02:c0de:5 www.videolan.org #ganesh.videolan.org
-
 ## JP 日本
 ## JAIST 北陸先端科学技術大学院大学
 2001:df0:2ed:feed::feed ftp.jaist.ac.jp
 2001:df0:2ed:feed::feed jaist.dl.sourceforge.net
-
 ## NL 荷兰
 ## Ubuntu Archive
 2001:7b8:3:37::21:3 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
 2001:7b8:3:37::21:3 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
-
 ## PA 巴拿马
 2400:cb00:2048:1::681b:d41e bitsnoop.com
-
 ## IPv6/IPv4 转换代理
 ## DNS64 服务器：
 #2001:778::37 dns64.litnet.lt
-
 ## Telegram
 2001:67c:4e8:fa60:3:0:811:139 telegram.org
 2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
@@ -25119,7 +24941,6 @@
 2001:67c:4e8:a:3:0:710:605 venus-1.web.telegram.org
 2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
 2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org
-
 ## NY Times
 2a04:4e42::420 nytimes.com
 2a04:4e42::420 www.nytimes.com
@@ -25159,7 +24980,6 @@
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3lar09xbwlsge.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3q1qj9jzsu8nw.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
-
 ## Dropbox
 2620:100:6032:1::a27d:5201 www.dropbox.com #www.v.dropbox.com
 162.125.33.6 www.v.dropbox.com
@@ -25479,12 +25299,6 @@
 104.244.46.199 o.twimg.com #ipv6.twimg.com
 104.244.46.39 oem.twimg.com #ipv6.twimg.com
 104.244.46.103 p.twimg.com #ipv6.twimg.com
-#2606:2800:248:1347:709:24f:182c:618 si0.twimg.com #ipv6.twimg.com
-#2606:2800:248:1347:709:24f:182c:618 si1.twimg.com #ipv6.twimg.com
-#2606:2800:248:1347:709:24f:182c:618 si2.twimg.com #ipv6.twimg.com
-#2606:2800:248:1347:709:24f:182c:618 si3.twimg.com #ipv6.twimg.com
-#2606:2800:248:1347:709:24f:182c:618 si4.twimg.com #ipv6.twimg.com
-#2606:2800:248:1347:709:24f:182c:618 si5.twimg.com #ipv6.twimg.com
 72.21.91.70 ton.twimg.com #ipv6.twimg.com
 104.244.46.39 video.twimg.com #ipv6.twimg.com
 192.229.237.154 tailfeather.twimg.com #cs322.wac.edgecastcdn.net
