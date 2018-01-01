@@ -431,6 +431,7 @@ gvt-vix1 b8u-8pme
 gvt-vix2 b8u-8pml
 gvt-vix3 b8u-8pms
 gvt-vix4 b8u-8pmz
+harnet-hkg1 i5goxu-i3be
 hgc-hkg3 ibj-i3bs
 hinet-khh1 ipoxu-3iie
 hinet-khh2 ipoxu-3iil
